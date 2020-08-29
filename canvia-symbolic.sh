@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-#elimina una icona symbolic en svg i l'enllaça amb l'original
-#no comprova res de res, millor fer-ho bé!
-echo Executa això:
+echo "eliminates svg symbolic icon and links a symbolic png to the original"
+echo "it does not check for anything, be sure to do it right!"
+echo "Executes this:"
 echo rm $1-symbolic.svg
 echo ln -s $1.png $1-symbolic.png
 

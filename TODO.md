@@ -1,9 +1,8 @@
 [https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html]
 
-#Coses a mirar:
+#Things to check:
 
-icones d'acció de veure com a llista o com a icones pel Gnome (nautilus). I la bomba seria trobar el menú (simbòlic)
-Al revés: un cop trobats, veure per a quins el gnome fa processat lleig i destrossa els colors (provar nautilus, gedit, etc. I mirar també quina era la icona del calaix d'apps (drawer) perquè alguns temes la trenquen també
+Why and how Gnome processes some icons (such as app drawer, or list type), which make buuf's icons appear with wrong colours.
 
 
 # places
@@ -11,13 +10,13 @@ Al revés: un cop trobats, veure per a quins el gnome fa processat lleig i destr
 poi:
 light-rail-station, railway-station, school
 
-revisar icones de status del nextcloud: fer-les 3 cops més grans
+redo status icons for nextcloud: make them 3 times bigger
 
 # actions
 
 # apps
 
-Nextcloud_* (estats)
+Nextcloud_* (statuses)
 nvidia-settings
 kpat
 ksmserver
@@ -26,7 +25,7 @@ libreoffice3-printeradmin.png
 mate applets
 mdm *
 
-mate (alguns ja hi són, falta ):
+mate (some are already there). Check these:
 /usr/share/icons/Suru++-Dark/apps/64/mate-brightness-applet.svg
 /usr/share/icons/Suru++-Dark/apps/64/mate-color-manager.svg
 /usr/share/icons/Suru++-Dark/apps/64/mate-cpu-frequency-applet.svg
@@ -76,14 +75,14 @@ org.gnome.font-viewer (-sym)
 org.gnome.gedit-symbolic
 org.gnome.Nautilus-symbolic
 org.gnome.PowerStats -symbolic
-org.gnome.seahorse.Application -symbolic (clau, tagreta de crèdit)
+org.gnome.seahorse.Application -symbolic (key, credit card)
 org.gnome.Settings-symbolic
 org.gnome.Shell.Extensions -symbolic
 org.gnome.Settings-symbolic
 org.gnome.SimpleScan -symbolic (scanner)
 org.gnome.Terminal-symbolic
 org.gnome.tweaks-symbolic
-org.gnome.Yelp -symbolic (help, flotador)
+org.gnome.Yelp -symbolic (help, float)
 org.gtk.Demo4 -symbolic 
 org.gtk.IconBrowser4 -symbolic
 org.gtk.WidgetFactory4
@@ -99,12 +98,12 @@ org.kde:
     kbruch
     kdenlive
     kdiamond
-    kgeography (mapa poi)
-    kgoldrunner (diamant daurat)
+    kgeography (map poi)
+    kgoldrunner (golden diamond)
     khangman
     kigo (go)
     killbots
-    kiten (japonès?)
+    kiten (japanese?)
     klickety
     klines
     kmix
@@ -117,14 +116,14 @@ org.kde:
     kstars
     ksudoku
     ktpcontactlist ()
-    ktuberlink (cara d'os)
-    kubrick (cub de rubik)
+    ktuberlink (bear face)
+    kubrick (rubik cube)
     kweather
     kwordquiz
-    lokalize ("traducció")
+    lokalize ("translate")
     okular
     palapeli (puzzle, add-ons?)
-    skrooge (una moneda)
+    skrooge (a coin)
 
 org.midori_browser.Midori
 org.mypaint.MyPaint (-symbolic)
@@ -135,18 +134,18 @@ ox
 oxygen, oxygen-settings
 package
 panorama
-parole (que no sigui al Totem!)
+parole (make it different than Totem!)
 partitionmanager
-partner (cerce blanc amb anell blanc sobre fons violeta vermellós)
-pinta (pinzell i pintura)
-plank (dock amb àncora)
+partner (white circle with white ring on reddish violet background)
+pinta (paintbrush and paint)
+plank (dock with anchor)
 xfce4-screenshooter
 digikam
 showfoto
 unetbootin
 conky
-editor de mime de XFCE
-gestor d'energia del XFCE xfce4-power-manager
+XFCE mime editor
+xfce4-power-manager
 
 
 
@@ -212,19 +211,19 @@ preferences-web-browser
     ssl
     stylesheets
     
-previewer (ull que mira)
-ptbatcher (el de panoràmica amb l'os)
+previewer (eye that looks)
+ptbatcher (bear with panoramic view)
 q4wine
 qalculate (-applet)
-quassel (bola del món dins d'un tub blau)
-quickview (ull)
+quassel (world inside blue tube)
+quickview (eye)
 quiterss
 r
 radiotray (=radio)
 rage (enlightenment video player)
 rekonq
 remmina-panel (-inverted)
-remote (antenna emetint)
+remote (antenna emitting)
 ring, -kde
 rosegarden
 running
@@ -240,10 +239,10 @@ softwarecenter-debian, -ubuntu
 spectacle
 spotify -linux-48x48 -512x512
 squeeze
-startupm (clau anglesa)
+startupm (spanner)
 steam
 stellarium
-step (pèndul)
+step (pendulus)
 subversion
 superkaramba
 supertux
@@ -286,7 +285,7 @@ xaos
 xconfig
 xemacs
 xfce-battery*
-xfce4- alguns
+xfce4- some
 xmag
 xonotic
 sauerbraten
@@ -299,20 +298,20 @@ xterm _32x32 _48x48 -color_*
 zanshin
    
 # categories
-slideshow-symbolic (i no)
+slideshow-symbolic (and not symbolic)
 
 # devices
-revisar òptics, molt millorable (CD-DVD-BR...)
+check optic media, highly improvable (CD-DVD-BR...)
 drive-partition
-network* enllaçar-los amb statuses
-mòbils de marques...?
+network* link with statuses
+different makes of phones??
 
 # emblems
 distributor-logo!
-veure'n més
+see more
 
 # mime-types
-tots els d'oficina / productivitat
+all related to office / productivity
 
 # status
 ac-adapter (-symbolic)
@@ -371,9 +370,4 @@ weather-clouds
     
     
     
-    +tots els symbolic
-    
-
-
-CONTINUAR DES D'AQUÍ. Fer-ho tot seleccionant una icona de carpeta per canviar-la i anar buscant les categories
-
+    +all symbolic ones
