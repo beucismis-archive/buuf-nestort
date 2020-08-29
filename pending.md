@@ -1,0 +1,379 @@
+[https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html]
+
+#Coses a mirar:
+
+icones d'acció de veure com a llista o com a icones pel Gnome (nautilus). I la bomba seria trobar el menú (simbòlic)
+Al revés: un cop trobats, veure per a quins el gnome fa processat lleig i destrossa els colors (provar nautilus, gedit, etc. I mirar també quina era la icona del calaix d'apps (drawer) perquè alguns temes la trenquen també
+
+
+# places
+
+poi:
+light-rail-station, railway-station, school
+
+revisar icones de status del nextcloud: fer-les 3 cops més grans
+
+# actions
+
+# apps
+
+Nextcloud_* (estats)
+nvidia-settings
+kpat
+ksmserver
+kweather
+libreoffice3-printeradmin.png
+mate applets
+mdm *
+
+mate (alguns ja hi són, falta ):
+/usr/share/icons/Suru++-Dark/apps/64/mate-brightness-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-color-manager.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-cpu-frequency-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-desktop-item-edit.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-disk-usage-analyzer.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-eiciel.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-eyes-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-indicator-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-inhibit-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-invest-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-logo.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-netspeed-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-network-properties.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-notification-properties.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-clock.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-drawer.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-fish.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-force-quit.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-launcher.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-notification-area.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-separator.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-window-list.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-window-menu.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel-workspace-switcher.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-panel.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-power-manager.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-power-statistics.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-preferences-desktop-display.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-sensors-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-session-properties.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-sticky-notes-applet.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate-system-log.svg
+/usr/share/icons/Suru++-Dark/apps/64/mate.svg
+/usr/share/icons/Suru++-Dark/apps/64/mateconf-editor.svg
+/usr/share/icons/Suru++-Dark/apps/64/matepalimpsest.svg
+
+
+orca-symbolic
+org.gnome.Characters-symbolic
+org.gnome-Archivemanager (-symbolic)
+org.gnome.Calculator-symbolic
+org.gnome.ChromeGnomeShell (foot icon)
+org.gnome.clocks (-symbolic)
+org.gnome.DiskUtility (-sym)
+org.gnome.Evince-symbolic
+org.gnome.font-viewer (-sym)
+org.gnome.gedit-symbolic
+org.gnome.Nautilus-symbolic
+org.gnome.PowerStats -symbolic
+org.gnome.seahorse.Application -symbolic (clau, tagreta de crèdit)
+org.gnome.Settings-symbolic
+org.gnome.Shell.Extensions -symbolic
+org.gnome.Settings-symbolic
+org.gnome.SimpleScan -symbolic (scanner)
+org.gnome.Terminal-symbolic
+org.gnome.tweaks-symbolic
+org.gnome.Yelp -symbolic (help, flotador)
+org.gtk.Demo4 -symbolic 
+org.gtk.IconBrowser4 -symbolic
+org.gtk.WidgetFactory4
+org.kde:
+    accountwizard
+    elisa (caset??)
+    gcompris (educació)
+    kalzium
+    kapman (pacman)
+    katomic
+    kblocks
+    kbounce
+    kbruch
+    kdenlive
+    kdiamond
+    kgeography (mapa poi)
+    kgoldrunner (diamant daurat)
+    khangman
+    kigo (go)
+    killbots
+    kiten (japonès?)
+    klickety
+    klines
+    kmix
+    kmplot (plot math)
+    knavalbattle
+    knetwalk
+    kolourpaint
+    kontact
+    krita
+    kstars
+    ksudoku
+    ktpcontactlist ()
+    ktuberlink (cara d'os)
+    kubrick (cub de rubik)
+    kweather
+    kwordquiz
+    lokalize ("traducció")
+    okular
+    palapeli (puzzle, add-ons?)
+    skrooge (una moneda)
+
+org.midori_browser.Midori
+org.mypaint.MyPaint (-symbolic)
+org.opensuse_welcome (-symbolic)
+org.remmina.Remmina
+Osmos, OsmosDemo
+ox
+oxygen, oxygen-settings
+package
+panorama
+parole (que no sigui al Totem!)
+partitionmanager
+partner (cerce blanc amb anell blanc sobre fons violeta vermellós)
+pinta (pinzell i pintura)
+plank (dock amb àncora)
+xfce4-screenshooter
+digikam
+showfoto
+unetbootin
+conky
+editor de mime de XFCE
+gestor d'energia del XFCE xfce4-power-manager
+
+
+
+preferences-devices:
+
+    printer
+    scanner
+    tree
+    drive-optical-check.svg
+
+preferences:
+    gtk-config
+    kcalc-constants
+    kde-connect
+    log
+    other
+    plugin-script
+    plugin
+    releasenotes
+    security-apparmor
+    security-firewall
+    security-kerberos
+    security
+    system-backup
+    system-bluetooth-inactive
+    system-linux
+    system-login
+    system-network-dsl
+    system-network-ethernet
+    system-network-scsi
+    system-network-ldap
+    system-network-nis
+    system-network-ntp
+    system-network-proxy (-sym)
+    system-network-remote
+    system-network-server
+    system-network-share-windows
+    system-network-share
+    system-network-sharing
+    system-network-vpn
+    system-network-wakeonlan
+    system-notifications (-symbolic)
+    system-power-management
+    system-privacy (symbolic)
+    system-search (symbolic)
+    system-services
+    system-sharing (symbolic)
+    system-splash
+    system-startup
+    system-time (-symbolic)
+    system-user-sudo
+    system-users
+    system-windows-actions
+    system-windows-move
+    virtualization-container
+
+preferences-web-browser
+    adblock
+    cache
+    cookies
+    identification
+    shortcuts
+    ssl
+    stylesheets
+    
+previewer (ull que mira)
+ptbatcher (el de panoràmica amb l'os)
+q4wine
+qalculate (-applet)
+quassel (bola del món dins d'un tub blau)
+quickview (ull)
+quiterss
+r
+radiotray (=radio)
+rage (enlightenment video player)
+rekonq
+remmina-panel (-inverted)
+remote (antenna emetint)
+ring, -kde
+rosegarden
+running
+samba (refer)
+scratch
+setroubleshoot_icon 
+setroubleshoot_red_icon
+shotwell-symbolic
+showfoto
+skrooge (-initial) (-black)
+sludge-engine
+softwarecenter-debian, -ubuntu
+spectacle
+spotify -linux-48x48 -512x512
+squeeze
+startupm (clau anglesa)
+steam
+stellarium
+step (pèndul)
+subversion
+superkaramba
+supertux
+supertuxkart
+SUSEgreeter
+sweeper
+swell-foop
+synapse
+system-diagnosis
+system-help
+system-lock-screen
+system-config-printer
+system-config-samba
+system-reboot
+tap-create, -extract-to, extract
+teamviewer
+telepathy (-kde)
+thunderbird-symbolic
+torcs
+timevault
+unetbootin
+usb
+unknownapp
+usermount
+
+utilities:
+    -desktop-extra
+    energy-monitor
+    file-archiver
+    log-viewer
+vlc-kb
+vlc-xmas
+window-duplicate
+window-list
+wine-wintricks
+WorldOfGoo (-demo)
+x
+xapp
+xaos
+xconfig
+xemacs
+xfce-battery*
+xfce4- alguns
+xmag
+xonotic
+sauerbraten
+xorg
+xournal
+xreader
+yakuake
+yast*
+xterm _32x32 _48x48 -color_*
+zanshin
+   
+# categories
+slideshow-symbolic (i no)
+
+# devices
+revisar òptics, molt millorable (CD-DVD-BR...)
+drive-partition
+network* enllaçar-los amb statuses
+mòbils de marques...?
+
+# emblems
+distributor-logo!
+veure'n més
+
+# mime-types
+tots els d'oficina / productivitat
+
+# status
+ac-adapter (-symbolic)
+airplane-mode (-symbolic)
+alarm (-symbolic)
+
+blueberry*
+aptdaemon...
+
+caffeine-cup-full o -empty
+my-caffeine-off-symbolic o -on-
+call-missed (-symbolic)
+(camera|audio|mic)-on -off -ready
+
+data-information (i)
+data-error (èquics)
+
+display-brightness (-symbolic)
+haguichi*
+
+input-caps-on
+input-keyboard-virtual-on -off
+input-keyboard
+input-mouse
+input-touchpad-on -off
+install
+kdeconnect-tray
+keybopard-brightness (-symbolic)
+keyboard
+laptopconnected (disconnected trusted) (smartphone tablet tv)
+microphone*
+més network*
+notification-gsm-*
+qbittorrent-tray (-dark, -light)
+reshift-status-on -off
+rotation-allowed-symbolic -locked-
+task*
+update-high -medium -low -none
+wallet-closed -open
+video-display
+user-status-pending (-symbolic)
+xfpm*
+yast-green-dot red yellow
+weather-clouds-night
+weather-clouds
+    -freezing-rain
+    -hail
+    -many-clouds
+    -mist
+    -none-available
+    -snow-rain
+    -snow-scattered-day -night
+    -snow-scattered
+    -storm-day
+    -storm-night
+    
+    
+    
+    +tots els symbolic
+    
+
+
+CONTINUAR DES D'AQUÍ. Fer-ho tot seleccionant una icona de carpeta per canviar-la i anar buscant les categories
+
