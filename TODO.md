@@ -146,7 +146,8 @@ unetbootin
 conky
 XFCE mime editor
 xfce4-power-manager
-
+zulucrypt
+grsync
 
 
 preferences-devices:
