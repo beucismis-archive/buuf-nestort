@@ -148,6 +148,7 @@ XFCE mime editor
 xfce4-power-manager
 zulucrypt
 grsync
+uget
 
 
 preferences-devices:
