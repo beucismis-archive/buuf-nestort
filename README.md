@@ -1,6 +1,6 @@
 # Description
 
-**Buuf Nestort** icon set
+**Buuf For Many Desktops** icon set (formerly known as "Buuf Nestort", I've decided to remove my alias from the theme's na
 
 This is a fairly complete set of icons for Gnome, KDE Plasma and XFCE (including actions, apps, categories, devices, emblems, emotes, mimetypes, places and status), based on the icons and artwork by Paul Davey (Mattahan) (http://www.mattahan.com/). Some of them come from OxayotlTheGreat and his great job with his own remix, Buuf https://www.gnome-look.org/p/1012512)
 
