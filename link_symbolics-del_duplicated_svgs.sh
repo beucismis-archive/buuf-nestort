@@ -2,12 +2,12 @@
 
 # This script does the following, scanning all subdirs:
 #   scan for all svgs
-#       if there is a png with the same name, remove it
+#       if there is a png with the same name, remove the SVG
 #   scan all icon_name-symbolic.svg
 #       if there is no icon_name-symbolic.png
 #           create one linking to the non-symbolic
 #           remove the symbolic svg
-#   It doesn't remove svg that don't have a corresponding png (these svgs are thre while the theme is not yet complete, so I can see I need to create an icon. Yes, it's ugly to publish a theme like that, sorry)
+#   It doesn't remove svg that don't have a corresponding png (these svgs are there while the theme is not yet complete, so I can see I need to create an icon. Yes, it's ugly to publish a theme like that, sorry)
 
 #   You can use it in "dry mode", where it prompts what it would do, but without actually doing it
 
@@ -46,7 +46,6 @@ case $1 in
     ;;
     *)
         showErrorUsage "Error: unknown parameter"
-        showHelp
         exit 1
     ;;
 esac
@@ -71,6 +70,15 @@ read -p "Press Enter to continue..."
 echo "Script unfinished. Exiting"
 exit 2
 
+
+# To do:
+
+# scan all *symbolic.svg, and for each of them:
+#   if there is no icon_name-symbolic.png
+#       create one linking to the non-symbolic
+#
+# scan all *.svg, and for each:
+#   if there is a matching filename.png then remove the svg
 
 for filenamesencer in *symbolic.svg
 do

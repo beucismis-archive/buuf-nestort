@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Buuf For Many Desktops
 Comment=Based on Mattahan's artwork in devianart cc-by-nc-sa 2.5
-Inherits=oxygen,gnome,hicolor
+Inherits=oxygen,gnome,hicolor,breeze
 Directories=actions,applets,apps,devices,categories,emblems,emotes,places,mimetypes,status,stock
 
 [actions]
