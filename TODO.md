@@ -1,6 +1,11 @@
 [https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html]
 
-#Things to check:
+
+This list has not been updated so it's not really meaningful now...
+
+
+
+# Things to check:
 
 Why and how Gnome processes some icons (such as app drawer, or list type), which make buuf's icons appear with wrong colours.
 
@@ -16,8 +21,6 @@ redo status icons for nextcloud: make them 3 times bigger
 
 # apps
 
-Nextcloud_* (statuses)
-nvidia-settings
 kpat
 ksmserver
 kweather
@@ -139,15 +142,9 @@ partitionmanager
 partner (white circle with white ring on reddish violet background)
 pinta (paintbrush and paint)
 plank (dock with anchor)
-xfce4-screenshooter
-digikam
 showfoto
-unetbootin
 conky
 XFCE mime editor
-xfce4-power-manager
-zulucrypt
-grsync
 uget
 
 
