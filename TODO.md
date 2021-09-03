@@ -370,3 +370,20 @@ weather-clouds
     
     
     +all symbolic ones
+
+
+# Possible problems with these symbolic icons in Gnome:
+
+Apparently, if you use an icon with colors Gnome does weird things with them.
+I've been able to sort these icon's problems by using dessaturated versions:
+
+places/gnome-main-menu.png
+actions/view-grid-symbolic.png
+actions/view-list-symbolic.png
+actions/view-app-grid-symbolic.png
+
+Also,  these need to be disabled:
+
+actions/view-grid-symbolic.symbolic.png.disabled
+actions/view-list-symbolic.symbolic.png.disabled
+actions/view-app-grid-symbolic.symbolic.png.disabled
