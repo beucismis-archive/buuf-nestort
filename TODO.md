@@ -9,6 +9,7 @@ This list has not been updated so it's not really meaningful now...
 
 Why and how Gnome processes some icons (such as app drawer, or list type), which make buuf's icons appear with wrong colours.
 
+always execute `gtk-update-icon-cache .` before commiting
 
 # places
 
